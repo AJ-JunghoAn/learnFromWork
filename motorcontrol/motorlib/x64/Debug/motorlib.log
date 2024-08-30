@@ -1,0 +1,4 @@
+﻿  motorlib.cpp
+C:\Users\Jungho An\source\repos\motorcontrol\motorlib\motorlib.cpp(17,43): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Jungho An\source\repos\motorcontrol\motorlib\motorlib.cpp(33,45): warning C4293: '>>': shift count negative or too big, undefined behavior
+  motorlib.vcxproj -> C:\Users\Jungho An\source\repos\motorcontrol\motor\x64\Debug\motorlib.lib
